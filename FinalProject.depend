@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1605205377 source:c:\kushee\c++\finalproject\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Category.h"
+	"Master_Items.h"
+	<unistd.h>
+
+1605205572 source:c:\kushee\c++\finalproject\src\category.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Category.h"
+
+1604682602 c:\kushee\c++\finalproject\include\category.h
+
+1604769819 c:\kushee\c++\finalproject\include\master_items.h
+
+1605205561 source:c:\kushee\c++\finalproject\src\master_items.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Master_Items.h"
+
+1605205378 source:c:\.university information\c++\finalproject\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Category.h"
+	"Master_Items.h"
+	<unistd.h>
+
+1604682604 c:\.university information\c++\finalproject\include\category.h
+
+1604769820 c:\.university information\c++\finalproject\include\master_items.h
+
+1605205574 source:c:\.university information\c++\finalproject\src\category.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Category.h"
+
+1605205562 source:c:\.university information\c++\finalproject\src\master_items.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Master_Items.h"
+
